@@ -1,0 +1,12 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol class="svg_icon" id="svg_20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon fill="#FF0000" id="svg_4" points="316,87.090744972229 339.0198516845703,153.31589889526367 409.11724853515625,154.74437713623047 353.24688720703125,197.1022491455078 373.54962158203125,264.2102508544922 316,224.1636962890625 258.45037841796875,264.2102508544922 278.75311279296875,197.1022491455078 222.8827667236328,154.74437713623047 292.9801483154297,153.31589889526367 316,87.090744972229 339.0198516845703,153.31589889526367 " stroke="#000000" stroke-width="5"/>
+  <path d="m96,120l33,-48l22,54l53,-4l-46,54l23,45l-65,-21l-45,22l10,-51l-47,-46l62,-5z" fill="#ff007f" id="svg_9" stroke="#000000" stroke-width="5"/>
+  <use id="svg_21" transform="matrix(6.66667 0 0 6.66667 0 0)" x="13.35" xlink:href="#svg_20" y="4.2"/>
+ </g>
+</svg>
