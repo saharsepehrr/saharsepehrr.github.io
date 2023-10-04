@@ -1,0 +1,48 @@
+/*sahar Sepehr 
+ 10/03/2023 */
+ 
+#outerwrapper {
+
+	max-width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+} 
+body {
+	background-color: #B8D1EB;
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+}
+main {
+    background-color: #C5A98B;
+    padding: 10px;
+}
+
+.floatleft { 
+float: left;
+margin-right: 3%;
+}
+
+.floatright {
+float: right;
+margin-left: 3%;
+}
+
+h1 {
+    font-family: 'Times New Roman', serif; 
+    font-size: 36px; 
+}
+h2 {
+	font-family: 'Times New Roman', serif;
+	font-weight: normal; 
+    font-style: italic; 
+}
+
+ .tomatolist {
+	list-style-image: url('../images/tomato.png');
+}
+footer {
+    font-size: 0.75em;
+    text-align: center;
+    background-color: #384938; /* You can replace this color with your choice */
+    padding: 10px 0; /* Shorthand for top and bottom padding */
+}
