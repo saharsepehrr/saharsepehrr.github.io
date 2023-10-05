@@ -1,0 +1,40 @@
+
+body {
+    background: #b0e0fc; 
+   }	
+   
+   #outerwrapper {
+     width: 60%;
+     margin-left: 20%;
+     margin-right: 20%;
+     border-style: dotted;
+   }
+   
+   h2:first-of-type, h3 {
+     padding-left: .5em;
+   }
+   
+   ul li:nth-child(odd)
+   add here {
+     font-style: italic;
+   }
+   
+  a:link {
+    color:blue ;
+  }
+  a:visited {
+    color:rgb(61, 151, 84)
+  }
+  a:hover {
+    color: aqua;
+  }
+  a:active {
+color: palevioletred;
+  }
+
+   footer
+   {
+     background: #ffffff; 
+     text-align: center;
+     padding: .25em;
+   }
