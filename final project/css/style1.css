@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'robotomedium';
+  src: 
+       url('../fonts/alexbrush-regular-webfont.woff') format('woff'),
+       url('../fonts/alexbrush-regular-webfont.woff2') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+h1 {
+  font-family: 'robotomedium', Arial, sans-serif; 
+  font-size: 2em;
+  color:rgb(22, 128, 128);
+}
+.B {
+  color: rgb(22, 128, 128);
+}
+.picture {
+    background-image:  url('../image/laptop22.png');
+    background-position: 10% 10%;
+      background-repeat: no-repeat;
+      background-size: cover;
+  height: 100%;
+  }
+  
+    .addrightmargin {
+      margin-right: 10%;
+
+      float: right;
+      border-radius: 100px;
+  
+    }
+    
+    /* Apply basic styles to the navigation links */
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+    /* Styling the normal link */
+  .link {
+    text-decoration: none;
+    color: #333;
+    padding: 5px 10px;
+    border: 1px solid transparent;
+  }
+  
+  /* Styling for unvisited links */
+  .link:link {
+    color: #333;
+ 
+  }
+  
+  /* Styling for visited links */
+  .link:visited {
+    color: rgb(230, 237, 240);
+  }
+  
+  /* Styling for hover effect */
+  .link:hover {
+    color: #fff;
+    background-color: #333;
+  }
+  
+  /* Styling for active link (when clicked) */
+  .link:active {
+    color: yellow;
+    background-color: #222;
+  } 
+ 
+  footer {
+    padding: 0px;
+      font-size: 0.75em;
+      text-align: center;
+      background-color: #fff; /* You can replace this color with your choice */
+      padding: 10px 0; /* Shorthand for top and bottom padding */
+  
+       position: absolute;
+            bottom: 0px;
+            right: 0;
+            left: 0;
+
+  }
+
+
+  
